@@ -3,10 +3,10 @@
 ## About
 
 The SpatioTemporal Asset Catalog (STAC) specification aims to standardize the way geospatial assets are exposed online and queried. 
-A 'spatiotemporal asset' is any file that represents information about the earth captured in a certain space and 
+A 'spatiotemporal asset' is any file that represents information about the Earth captured in a certain space and 
 time. The initial focus is primarily remotely-sensed imagery (from satellites, but also planes, drones, balloons, etc), but 
 the core is designed to be extensible to SAR, full motion video, point clouds, hyperspectral, LiDAR and derived data like
-NDVI, Digital Elevation Models, mosaics, etc. 
+NDVI, Digital Elevation Models, and mosaics. 
 
 The goal is for all major providers of imagery and other earth observation data to expose their data as spatiotemporal asset catalogs,
 so that new code doesn't need to be written whenever a new JSON-based REST API comes out that makes its data available in a slightly 

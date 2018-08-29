@@ -1,0 +1,186 @@
+{
+  "type": "Feature",
+  "id": "S2A_OPER_MSI_L2A_TL_SGS__20180524T190423_A015250_T26SKD_N02.08",
+  "bbox": [
+    -105.160846396,
+    39.0436821016,
+    -104.947574355,
+    39.0436821016
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          [
+            -105.160846396,
+            39.1656009422
+          ],
+          [
+            -104.947574355,
+            39.1750024943
+          ],
+          [
+            -104.949890373,
+            39.0512153242
+          ],
+          [
+            -105.161151214,
+            39.0436821016
+          ],
+          [
+            -105.160846396,
+            39.1656009422
+          ]
+        ]
+      ]
+    ]
+  },
+  "assets": {
+    "metadata": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/metadata.xml"
+    },
+    "tileInfo": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/tileInfo.json"
+    },
+    "productInfo": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/productInfo.json"
+    },
+    "thumbnail": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/qi/L2A_PVI.jp2"
+    },
+    "B02_10m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R10m/B02.jp2"
+    },
+    "B03_10m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R10m/B03.jp2"
+    },
+    "B04_10m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R10m/B04.jp2"
+    },
+    "B08_10m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R10m/B08.jp2"
+    },
+    "AOT_10m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R10m/AOT.jp2"
+    },
+    "TCI_10m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R10m/TCI.jp2"
+    },
+    "WVP_10m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R10m/WVP.jp2"
+    },
+    "B02_20m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R20m/B02.jp2"
+    },
+    "B03_20m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R20m/B03.jp2"
+    },
+    "B04_20m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R20m/B04.jp2"
+    },
+    "B05_20m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R20m/B05.jp2"
+    },
+    "B06_20m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R20m/B06.jp2"
+    },
+    "B07_20m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R20m/B07.jp2"
+    },
+    "B8A_20m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R20m/B8A.jp2"
+    },
+    "B11_20m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R20m/B11.jp2"
+    },
+    "B12_20m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R20m/B12.jp2"
+    },
+    "AOT_20m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R20m/AOT.jp2"
+    },
+    "SCL_20m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R20m/SCL.jp2"
+    },
+    "TCI_20m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R20m/TCI.jp2"
+    },
+    "WVP_20m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R20m/WVP.jp2"
+    },
+    "B01_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R60m/B01.jp2"
+    },
+    "B02_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R60m/B02.jp2"
+    },
+    "B03_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R60m/B03.jp2"
+    },
+    "B04_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R60m/B04.jp2"
+    },
+    "B05_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R60m/B05.jp2"
+    },
+    "B06_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R60m/B06.jp2"
+    },
+    "B07_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R60m/B07.jp2"
+    },
+    "B8A_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R60m/B8A.jp2"
+    },
+    "B09_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R60m/B09.jp2"
+    },
+    "B11_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R60m/B11.jp2"
+    },
+    "B12_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R60m/B12.jp2"
+    },
+    "AOT_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R60m/AOT.jp2"
+    },
+    "SCL_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R60m/SCL.jp2"
+    },
+    "TCI_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R60m/TCI.jp2"
+    },
+    "WVP_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/R60m/WVP.jp2"
+    },
+    "CLD_20m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/qi/CLD_20m.jp2"
+    },
+    "CLD_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/qi/CLD_60m.jp2"
+    },
+    "SNW_20m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/qi/SNW_20m.jp2"
+    },
+    "SNW_60m": {
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/qi/SNW_60m.jp2"
+    }
+  },
+  "properties": {
+    "datetime": "2018-06-05T10:00:27.464Z",
+    "provider": "ESA",
+    "c:id": "L2A",
+    "c:name": "Sentinel-2 L2A",
+    "c:description": "Sentinel-2 L2A orthorectified Bottom-Of-Atmosphere (BOA) reflectance, with sub-pixel multispectral registration.",
+    "eo:platform": "sentinel-2",
+    "eo:cloud_cover": 88.459539,
+    "eo:sun_azimuth" : 176.091667178268
+  },
+  "links": {
+    "self": {
+      "rel": "self",
+      "href": "s3://sentinel-s2-l2a/tiles/35/V/MK/2018/6/5/0/"
+    }
+  }
+}
